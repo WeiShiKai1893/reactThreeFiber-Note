@@ -13,6 +13,7 @@ root.render(
             far: 200,
             position: [ - 4, 3, 6 ]
         } }
+   //     onpointermissed={ (event) => { console.log("")  } }
     >
         <Experience />
     </Canvas>
