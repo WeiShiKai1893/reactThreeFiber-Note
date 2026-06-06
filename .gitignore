@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.tsbuildinfo
+
+# OS files
+Thumbs.db
